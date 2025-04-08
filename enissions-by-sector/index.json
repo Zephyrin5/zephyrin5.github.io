@@ -1,0 +1,30 @@
+[
+  {
+    "Sector": "Energy",
+    "Emissions": 50.4
+  },
+  {
+    "Sector": "Industry",
+    "Emissions": 22.7
+  },
+  {
+    "Sector": "Transport",
+    "Emissions": 14
+  },
+  {
+    "Sector": "Agriculture",
+    "Emissions": 9.3
+  },
+  {
+    "Sector": "Residential",
+    "Emissions": 3.4
+  },
+  {
+    "Sector": "Waste",
+    "Emissions": 1.2
+  },
+  {
+    "Sector": "Other",
+    "Emissions": 2
+  }
+]
